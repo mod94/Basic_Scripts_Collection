@@ -2,6 +2,11 @@ import os, sys
 import xml.dom
 from xml.dom import minidom
 '''
+Produces a formatted list of 
+Environment ie prod/uat
+Workflow GUID
+Workflow Name
+
 Usage guide:
 1: Open telestream vantage workflow designer
 2: Select File -> Export Workflows by Category
