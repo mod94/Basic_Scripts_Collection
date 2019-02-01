@@ -1,2 +1,2 @@
-# A Collection of scripts for various items
+# A Collection of my scripts for various items
 
