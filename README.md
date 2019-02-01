@@ -1,2 +1,2 @@
-# AWS_S3_Scripts
-Scripts used for AWS Integration
+# A Collection of scripts for various items
+
